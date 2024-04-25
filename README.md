@@ -13,6 +13,6 @@ npm run start
 Should run on port 3000
 
 Classification:
-> Drag and drop images or upload multiple files.
-> Click on generate
-> Open the PDF generated to view the classification.
+- Drag and drop images or upload multiple files.
+- Click on generate
+- Open the PDF generated to view the classification.
